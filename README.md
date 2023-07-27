@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav-nadiadra" alt="bhargav-nadiadra" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Front-end development**
 
 - 📫 How to reach me **bhargav.nce20@sot.pdpu.ac.in**
 
