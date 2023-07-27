@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav Nadiadra</h1>
-<h3 align="center">Pre-final year student who is interested in web development</h3>
+<h3 align="center">Final year student who is interested in web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-nadiadra&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav-nadiadra" /> </p>
 
